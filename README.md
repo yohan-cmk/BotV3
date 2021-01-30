@@ -28,6 +28,18 @@ If you find some bugs please contact the WhatsApp number on Contact
 
 - [WHATSAPP](https://wa.me/6285939888897)
 
+### Bot V1
+- [BotV1](https://github.com/adimas999/BotV1)
+
+### Bot V2
+- [BotV2](https://github.con/adimas999/BotV2)
+
+### Bot V3
+- [BotV3](https://github.com/adimas999/BotV3)
+
+### Termux Telegram Bot(Coming Soon)
+- [Telegram-Bot](https://github.com/adimas999/telegram-bot)
+
 ### Install
 Clone this project
 
