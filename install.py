@@ -9,20 +9,41 @@ def m(s):
 
 os.system("clear")
 print("""
-\x1b[1;00m        ▓██      ▒█████    ▄████  ██▓ ███▄    █▓
-        ▓██▒    ▒██▒  ██▒ ██▒ ▀█▒▓██▒ ██ ▀█   █▓
-        ▒██░    ▒██░  ██▒▒██░▄▄▄░▒██▒▓██  ▀█ ██▒
-        ▒██░    ▒██   ██░░▓█  ██▓░██░▓██▒  ▐▌██▒
-        ░██████▒░ ████▓▒░░▒▓███▀▒░██░▒██░   ▓██░
-        ░ ▒░▓  ░░ ▒░▒░▒░  ░▒   ▒ ░▓  ░ ▒░   ▒ ▒
-        ░ ░\x1b[00m\033[041m S A T P A M  P O S  R O N D A  \033[00m\x1b[1;00m░░
-          ░ ░   ░   ░    ░ ░   ░    ░   ░   ░\x1b[00m
+    ██████╗░░█████╗░██████╗░██╗░░██╗
+    ██╔══██╗██╔══██╗██╔══██╗██║░██╔╝
+    ██║░░██║███████║██████╔╝█████═╝░
+    ██║░░██║██╔══██║██╔══██╗██╔═██╗░
+    ██████╔╝██║░░██║██║░░██║██║░╚██╗
+    ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
+
+    ██████╗░░█████╗░████████╗
+    ██╔══██╗██╔══██╗╚══██╔══╝
+    ██████╦╝██║░░██║░░░██║░░░
+    ██╔══██╗██║░░██║░░░██║░░░
+    ██████╦╝╚█████╔╝░░░██║░░░
+    ╚═════╝░░╚════╝░░░░╚═╝░░░
+      ░ ░\x1b[00m\033[041m TERMUX WHATSAPP BOT MrDevils  \033[00m\x1b[1;00m░░
+        ░ ░   ░   ░    ░ ░   ░    ░   ░   ░\x1b[00m
 """)
 m('\x1b[00m\033[041m Install bahan automatis  \033[00m')
+m('\x1b[00m\033[041m Jangan Keluar Dari Termux Sebelum Selesai Menginstall!!  \033[00m')
 os.system("pkg update -y")
 os.system("pkg upgrade -y")
 os.system("pkg install nano")
 os.system("pkg install python -y")
 os.system("pkg install python2 -y")
-m("DONE")
+os.system("pkg install nodejs -y")
+os.system("pkg install libwebp -y")
+os.system("pkg install ffmpeg -y")
+os.system("pkg install wget -y")
+os.system("pkg install tesseract -y")
+os.system("bash install.sh")
+os.system("npm audit fix")
+os.system("npm i imgbb-uploader")
+os.system("npm cache clean -f")
+os.system("npm install --dev")
+os.system("npm i got")
+m('\x1b[00m\033[041m Memulai Whatsapp Bot...  \033[00m')
 os.system("clear")
+os.system("python start.py")
+m("DONE")
