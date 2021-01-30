@@ -1,12 +1,15 @@
 /*
 * Tambahin nama author lah
-* Author nya Radya, Farid, M.hadi.firmansya, and Nazwa
+* Author nya Radya, Farid, M.hadi.firmansya,Nazwa, dan MrDevils
 * Tambahin ya zhayank
 * Jan numpang nama doank
 * Baca readme nya biar gk tanya tanya
 
 - What's New?
-* Fix menu
+* trigger
+* gay
+* wasted
+* nulis2
 */
 
 const {
