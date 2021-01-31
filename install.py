@@ -1,3 +1,7 @@
+//hayo mau nyolong kode yah
+//hayoo jujur
+//wkwkwkwkwk
+//hemm......
 import sys, time, os
 
 
