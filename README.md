@@ -1,4 +1,7 @@
 # Termux Bot Whatsapp V3 by MrDevils
+## Jangan di pakai dulu!!
+## masih error 😂
+
 
 <p align="center">
 <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
