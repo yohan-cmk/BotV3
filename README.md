@@ -89,6 +89,7 @@ after running it you need to scan the qr
 
 |  MAKER  |                                           YES |
 | :---------------------------------------------: | :-----------: |
+| gif trigger|✅|
 | Sticker Maker|✅|
 | Sticker Gif Maker|✅|
 | Convert Sticker To Image|✅|
