@@ -26,6 +26,9 @@
 
 ### UPDATE
 - [Fix Bug]
+- [trigger]
+- [gay]
+- [nulis2]
 
 ## Contact
 
