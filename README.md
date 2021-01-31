@@ -14,6 +14,9 @@
 <a href="https://github.com/adimas999/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/adimas999/BotV3?color=blue&style=flat-square"></a>
 <a href="https://github.com/adimas999/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/adimas999/BotV3?color=red&style=flat-square"></a>
 <a href="https://github.com/adimas999/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/adimas999/BotV3?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="maintened" src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat"></a>
+<a href="#"><img title="repo size" src="https://img.shields.io/github/repo-size/adimas999/BotV3?style=flat-square"></a>
+</p>
 </p>
 <p align='center'>
    <a href="https://wa.me/6285939888897"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
