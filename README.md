@@ -24,6 +24,9 @@
 </P>
 </P>
 
+### UPDATE
+- [Fix Bug]
+
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
