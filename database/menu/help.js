@@ -12,7 +12,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 
 ┏━━━⊱  *ABOUT USER*  ⊰━━┓
 ┣⊱ *Nama* : ${pushname}
-┣⊱ *Nomer* : wa.me/${sender.split("@")[0]}
 ┣⊱ *Uang mu* : ${uangku}
 ┣⊱ *XP* : ${reqXp}
 ┣⊱ *Prefix* : ${prefix}
@@ -21,7 +20,7 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 
 ┏━━❉ *${botName}* ❉━━━┓
 ┣⊱ *Creator* : *NazwaS*
-┣⊱ *Pengemban* : *MrDevils*
+┣⊱ *Pengembang* : *MrDevils*
 ┣⊱ *Whatsapp* : *85939888897*
 ┣⊱ *Github* : github.com/adimas999
 ┣⊱ *IG* : *adimas_sahadoet*
