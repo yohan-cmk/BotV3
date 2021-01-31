@@ -316,7 +316,7 @@ async function starts() {
 		success('2', 'Connected')
 	})
 	await client.connect({timeoutMs: 30*1000})
-        fs.writeFileSync('./Devild.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
+        fs.writeFileSync('./Devils.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
 
 	client.on('group-participants-update', async (anu) => {
 		if (!welkom.includes(anu.jid)) return
@@ -431,7 +431,7 @@ async function starts() {
                         const botName = 'DARK BOT'
                         const ownerName = 'Mr.Devils'
                         const BarBarKey = 'YOUR_APIKEY'
-                        const vhtear = 'AW62938KK46292gJ73639h'
+                        const vhtear = 'Chat 62895384009405 kalau mau apikey nya'
                         const tobz = 'BotWeA'
                         const zeks = 'xptnbot352' //apikey cadangan nya apivinz
 
